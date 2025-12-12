@@ -9,9 +9,9 @@ const Home = () => {
         <div className="hero-content">
           <h1>UNQUIRGOLAS</h1>
           <p>Hongos comestibles, medicinales, preparaciones.</p>
-          <Link to="/products" className="cta-button">
-            Ver Productos
-          </Link>
+          <Link to="/productos" className="btn btn-primary">
+  Ver Productos
+</Link>
         </div>
       </section>
     </div>
